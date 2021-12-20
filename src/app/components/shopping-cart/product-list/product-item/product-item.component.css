@@ -1,0 +1,13 @@
+.card-text {
+    font-size: 14px;
+}
+
+.card-body {
+    font-size: 13px;
+}
+
+.thumbnail img:hover {
+    transition: all .2s ease-in-out;
+    transform: scale(1.1);
+}
+
